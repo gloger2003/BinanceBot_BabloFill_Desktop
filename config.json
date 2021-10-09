@@ -1,0 +1,10 @@
+{
+    "config_name_id": "",
+    "api_key": "",
+    "api_secret": "",
+    "klines_limits": 0,
+    "points_to_enter": 0,
+    "use_open_candles": false,
+    "timeframe": "1m",
+    "pairs": {}
+}
