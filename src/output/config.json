@@ -1,0 +1,21 @@
+{
+    "config_name_id": "",
+    "api_key": "",
+    "api_secret": "",
+    "klines_limits": 200,
+    "points_to_enter": 3,
+    "use_open_candles": false,
+    "timeframe": "1m",
+    "pairs": {
+        "ggg": {
+            "pair_name_id": "ggg",
+            "base": "BTC",
+            "quote": "BNB",
+            "spend_sum": 0.0,
+            "profit_markup": 0,
+            "use_stop_loss": false,
+            "stop_loss": 0,
+            "active": true
+        }
+    }
+}

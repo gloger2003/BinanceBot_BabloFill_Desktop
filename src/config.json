@@ -1,0 +1,21 @@
+{
+    "config_name_id": "Тестовый конфиг",
+    "api_key": "",
+    "api_secret": "asddasassa",
+    "klines_limits": 232,
+    "points_to_enter": 30,
+    "use_open_candles": true,
+    "timeframe": "15m",
+    "pairs": {
+        "fdfddf": {
+            "pair_name_id": "fdfddf",
+            "base": "BTC",
+            "quote": "BNB",
+            "spend_sum": 0.05,
+            "profit_markup": 0.09,
+            "use_stop_loss": false,
+            "stop_loss": 0,
+            "active": true
+        }
+    }
+}
